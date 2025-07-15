@@ -1,0 +1,21 @@
+Epoch [1/20] | D Loss: 0.1726 | G Loss: 2.0958
+Epoch [2/20] | D Loss: 0.0451 | G Loss: 3.7365
+Epoch [3/20] | D Loss: 0.0525 | G Loss: 3.1824
+Epoch [4/20] | D Loss: 0.0864 | G Loss: 2.9210
+Epoch [5/20] | D Loss: 0.0570 | G Loss: 3.8725
+Epoch [6/20] | D Loss: 0.0865 | G Loss: 3.8773
+Epoch [7/20] | D Loss: 0.0822 | G Loss: 3.7539
+Epoch [8/20] | D Loss: 0.0733 | G Loss: 3.6239
+Epoch [9/20] | D Loss: 0.2396 | G Loss: 1.6656
+
+Epoch [10/20] | D Loss: 0.1869 | G Loss: 2.9039
+Epoch [11/20] | D Loss: 0.0638 | G Loss: 3.9328
+Epoch [12/20] | D Loss: 1.1507 | G Loss: 1.6362
+Epoch [13/20] | D Loss: 0.4840 | G Loss: 2.1137
+Epoch [14/20] | D Loss: 0.2092 | G Loss: 2.5302
+Epoch [15/20] | D Loss: 0.2588 | G Loss: 1.8670
+Epoch [16/20] | D Loss: 0.4514 | G Loss: 2.7147
+Epoch [17/20] | D Loss: 0.4827 | G Loss: 3.0036
+Epoch [18/20] | D Loss: 0.6677 | G Loss: 2.4137
+Epoch [19/20] | D Loss: 0.5309 | G Loss: 1.4003
+Epoch [20/20] | D Loss: 0.7624 | G Loss: 2.7691
